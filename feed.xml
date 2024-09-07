@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>Luxuan Wang</title>
-    <link href="https://hellyeahz.github.io/luxuan/feed.xml" rel="self" />
-    <link href="https://hellyeahz.github.io/luxuan" />
+    <link href="https://hellyeahz.github.io/luxuan.github.io/feed.xml" rel="self" />
+    <link href="https://hellyeahz.github.io/luxuan.github.io" />
     <updated>1970-01-01T08:00:00+08:00</updated>
     <author>
         <name>Luxuan</name>
     </author>
-    <id>https://hellyeahz.github.io/luxuan</id>
+    <id>https://hellyeahz.github.io/luxuan.github.io</id>
 
 </feed>

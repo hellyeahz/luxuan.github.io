@@ -6,4 +6,4 @@ User-agent: CCBot
 Disallow: /
 User-agent: *
 Disallow:
-Sitemap: https://hellyeahz.github.io/luxuan/sitemap.xml
+Sitemap: https://hellyeahz.github.io/luxuan.github.io/sitemap.xml
